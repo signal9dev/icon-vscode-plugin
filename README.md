@@ -1,22 +1,27 @@
 
-# ICON SCORE Support
+# [ICON SCORE Support](https://github.com/signal9dev/icon-vscode-plugin)
+
+<p >
+    <a href="https://marketplace.visualstudio.com/items?itemName=signal9.icon-vscode-plugin">
+        <img src="https://vsmarketplacebadge.apphb.com/version/signal9.icon-vscode-plugin.svg" alt="Marketplace badge">
+    </a>
+</p>
 
 ## Features
 A VSCode extension to deveop ICON SCORE.
 Helping ICON SCORE develop. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
 
 ## Requirements
-VSCode v 1.31.1+
+Visual Studio Code version 1.31+
 
 ## Install
 ![install](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/install.gif?raw=true)
 
 
-## Deploy to ICON network
+## Demo
+### Deploy to ICON network
 
 ![Demo1](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/demo1.gif?raw=true)
-
-
 
 <!-- 
 
@@ -37,15 +42,9 @@ This extension contributes the following settings:
 N/A
 
 -----------------------------------------------------------------------------------------------------------
+-->
 
 ### For more information
 
 * [Signal9](http://signal9.io/)
 * [Contract Support System](http://icon.signal9.io/)
-
-<!-- 
-* [Visual Studio Code's ICON SCORE Support](http://signal9.io)
--->
-
-
-**Enjoy!**
