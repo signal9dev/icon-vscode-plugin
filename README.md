@@ -8,8 +8,8 @@
 </p>
 
 ## Features
-A VSCode extension to deveop ICON SCORE.
-Helping ICON SCORE develop. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
+A VSCode extension to develope ICON SCORE.
+Helping ICON SCORE develope. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
 
 ## Requirements
 Visual Studio Code version 1.31+
