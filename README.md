@@ -15,13 +15,13 @@ Helping ICON SCORE developement. SCORE can be developed and easily deployed on t
 Visual Studio Code version 1.31+
 
 ## Install
-![install](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/install2.gif?raw=true)
+![install](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/install.gif?raw=true)
 
 
 ## Demo
 ### Deploy to ICON network
 
-![Demo1](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/demo2.gif?raw=true)
+![Demo1](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/demo1.gif?raw=true)
 
 <!-- 
 
