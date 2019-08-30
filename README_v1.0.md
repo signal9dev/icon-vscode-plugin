@@ -9,18 +9,7 @@
 
 ## Features
 A VSCode extension to develope ICON SCORE.
-Helping ICON SCORE developement. SCORE can be developed and easily deployed on the ICON network.
-
-### Initial Deploy
-    Can be deployed on ICON mainnet, ICON testnet or your own testnet.
-
-### Update Deploy
-    Can be update deployed on ICON mainnet, ICON testnet or your own testnet.
-
-### Send Transaction
-    Provide external function call interface after deployment.
-
-**_We plan to offer more features in the future._**
+Helping ICON SCORE developement. SCORE can be developed and easily deployed on the ICON network. We plan to offer more features in the future.
 
 ## Requirements
 Visual Studio Code version 1.31+
@@ -28,19 +17,13 @@ Visual Studio Code version 1.31+
 ## Install
 ![install](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/install.gif?raw=true)
 
-## Preference
-### Setting preference
-![preference](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/preferenceSettingDemo_v1.1.gif?raw=true)
 
 ## Demo
 ### Deploy to ICON network
 
-![deploy](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/deployDemo_v1.1.gif?raw=true)
+![Demo1](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/demo1.gif?raw=true)
 
-### Sending transaction
-![sendtrx](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/sendTrxDemo_v1.1.gif?raw=true)
-
-<!--
+<!-- 
 
 ## Extension Settings
 
