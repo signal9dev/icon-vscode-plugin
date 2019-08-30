@@ -30,15 +30,38 @@ Visual Studio Code version 1.31+
 
 ## Preference
 ### Setting preference
-![preference](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/preferenceSettingDemo_v1.1.gif?raw=true)
+You can set the preferences with VS Code Application menu.
+Code>Preferences> Settings> Extension> ICON SCORE>
+Click Edit in settings.json
+``` text
+# settings.json
+
+# wallet(Mandatory)
+"icon.wallet": [
+{
+"name" : "test_wallet",
+"path" : "/dir/keystore_file"
+},
+{
+"name" : "test_wallet2",
+"path" : "/dir/keystore_file2"
+}
+],
+
+# custom uri(Optional)
+"icon.network custom url": "http://localhost:9000/api/v3",
+
+```
+
+![TBD](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/preferenceSettingDemo_v1.1.gif?raw=true)
 
 ## Demo
 ### Deploy to ICON network
 
-![deploy](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/deployDemo_v1.1.gif?raw=true)
+![TDB](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/deployDemo_v1.1.gif?raw=true)
 
 ### Sending transaction
-![sendtrx](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/sendTrxDemo_v1.1.gif?raw=true)
+![TBD](https://github.com/signal9dev/icon-vscode-plugin/blob/master/images/sendTrxDemo_v1.1.gif?raw=true)
 
 <!--
 
